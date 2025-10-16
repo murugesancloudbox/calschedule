@@ -1,0 +1,326 @@
+{
+    "collection": [
+        {
+            "calendar_event": {
+                "external_id": "5eecc3vvcb93h98nffapqfghrg",
+                "kind": "google"
+            },
+            "created_at": "2025-10-14T15:48:59.578149Z",
+            "end_time": "2025-10-15T20:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-15T20:30:00.000000Z",
+                    "buffered_start_time": "2025-10-15T19:30:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "location": null,
+                "type": "custom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-15T19:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-14T15:49:03.796063Z",
+            "uri": "https://api.calendly.com/scheduled_events/73284364-9310-42f9-a136-bc3691915fdf"
+        },
+        {
+            "calendar_event": {
+                "external_id": "29nodma5vg9qhup61a6ordn014",
+                "kind": "google"
+            },
+            "created_at": "2025-10-15T16:20:17.315283Z",
+            "end_time": "2025-10-16T05:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-16T05:45:00.000000Z",
+                    "buffered_start_time": "2025-10-16T04:15:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "data": {
+                    "id": 79566036802,
+                    "settings": {},
+                    "password": "9AYZuQ",
+                    "extra": null
+                },
+                "join_url": "https://us04web.zoom.us/j/79566036802?pwd=B2A8TQuGJryTUjT1iQCFLNO3BeAmDu.1",
+                "status": "pushed",
+                "type": "zoom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-16T04:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-15T16:20:21.390951Z",
+            "uri": "https://api.calendly.com/scheduled_events/a0a82665-7984-4ce0-aef1-ac6189498a26"
+        },
+        {
+            "calendar_event": {
+                "external_id": "2nkg68v901frekee1p3bb36c3c",
+                "kind": "google"
+            },
+            "created_at": "2025-10-14T18:15:31.356133Z",
+            "end_time": "2025-10-22T05:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-22T05:45:00.000000Z",
+                    "buffered_start_time": "2025-10-22T04:15:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "data": {
+                    "id": 76066763689,
+                    "settings": {},
+                    "password": "1qhd5w",
+                    "extra": null
+                },
+                "join_url": "https://us04web.zoom.us/j/76066763689?pwd=1ekOXCyHBzxzPPuT7stbJnpb1rWVWw.1",
+                "status": "pushed",
+                "type": "zoom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-22T04:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-14T18:15:37.455895Z",
+            "uri": "https://api.calendly.com/scheduled_events/82045bc9-bfd4-43f4-b915-5ed182435c8e"
+        },
+        {
+            "calendar_event": {
+                "external_id": "40vna8mbcn5jfit3mvqqsc7h7c",
+                "kind": "google"
+            },
+            "created_at": "2025-10-15T16:05:23.496947Z",
+            "end_time": "2025-10-23T04:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-23T04:45:00.000000Z",
+                    "buffered_start_time": "2025-10-23T03:15:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "data": {
+                    "id": 78970121104,
+                    "settings": {},
+                    "password": "SEL6yj",
+                    "extra": null
+                },
+                "join_url": "https://us04web.zoom.us/j/78970121104?pwd=3ddXoDOrYDB83eJkr8V3KTOwN25sTH.1",
+                "status": "pushed",
+                "type": "zoom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-23T03:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-15T16:05:27.203835Z",
+            "uri": "https://api.calendly.com/scheduled_events/a0a328a6-0101-4082-8ade-f2b1855d48af"
+        },
+        {
+            "calendar_event": {
+                "external_id": "c5qp9tuij2t9tog3j944ltphf0",
+                "kind": "google"
+            },
+            "created_at": "2025-10-14T17:31:03.615138Z",
+            "end_time": "2025-10-24T05:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-24T05:45:00.000000Z",
+                    "buffered_start_time": "2025-10-24T04:15:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "location": null,
+                "type": "custom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-24T04:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-14T17:31:07.575933Z",
+            "uri": "https://api.calendly.com/scheduled_events/fe756168-ca74-4ce9-a25b-a0ad07592b54"
+        },
+        {
+            "calendar_event": {
+                "external_id": "2807k8cep6l7lcl78qm3d0kpf4",
+                "kind": "google"
+            },
+            "created_at": "2025-10-15T16:09:38.898628Z",
+            "end_time": "2025-10-24T07:00:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-24T07:15:00.000000Z",
+                    "buffered_start_time": "2025-10-24T05:45:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "data": {
+                    "id": 78488057424,
+                    "settings": {},
+                    "password": "VyLY1r",
+                    "extra": null
+                },
+                "join_url": "https://us04web.zoom.us/j/78488057424?pwd=pS6kaOpFbqAxR3G9KVvgVdwxlUmdot.1",
+                "status": "pushed",
+                "type": "zoom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-24T06:00:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-15T16:09:41.965247Z",
+            "uri": "https://api.calendly.com/scheduled_events/8b177d98-2b43-4a31-8c34-b50bd06aa0e5"
+        },
+        {
+            "calendar_event": {
+                "external_id": "73dj22vi1hkoha1d9sfuoh0m4o",
+                "kind": "google"
+            },
+            "created_at": "2025-10-14T17:35:44.142611Z",
+            "end_time": "2025-10-24T09:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-24T09:45:00.000000Z",
+                    "buffered_start_time": "2025-10-24T08:15:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "location": null,
+                "type": "custom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-24T08:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-14T17:35:48.680721Z",
+            "uri": "https://api.calendly.com/scheduled_events/9aac106d-ff52-4880-8146-33f9cf7f2c42"
+        },
+        {
+            "calendar_event": {
+                "external_id": "q6ahnb2dqa2afi0t5d45n46ug0",
+                "kind": "google"
+            },
+            "created_at": "2025-10-14T18:16:54.554131Z",
+            "end_time": "2025-10-29T06:30:00.000000Z",
+            "event_guests": [],
+            "event_memberships": [
+                {
+                    "buffered_end_time": "2025-10-29T06:45:00.000000Z",
+                    "buffered_start_time": "2025-10-29T05:15:00.000000Z",
+                    "user": "https://api.calendly.com/users/e8efae9c-1d57-4042-8bbd-780c3e1ae6da",
+                    "user_email": "murugesan.cloudbox@gmail.com",
+                    "user_name": "Murugesan P"
+                }
+            ],
+            "event_type": "https://api.calendly.com/event_types/c53ac4f6-849e-491f-86d0-f8d4c239c6e8",
+            "invitees_counter": {
+                "active": 1,
+                "limit": 1,
+                "total": 1
+            },
+            "location": {
+                "data": {
+                    "id": 77846864967,
+                    "settings": {},
+                    "password": "T11D6R",
+                    "extra": null
+                },
+                "join_url": "https://us04web.zoom.us/j/77846864967?pwd=MyULoAIxiR6ILJukTavdZakH0JgLNX.1",
+                "status": "pushed",
+                "type": "zoom"
+            },
+            "meeting_notes_html": null,
+            "meeting_notes_plain": null,
+            "name": "Financial Consulting (1 Hr)",
+            "start_time": "2025-10-29T05:30:00.000000Z",
+            "status": "active",
+            "updated_at": "2025-10-14T18:16:59.204528Z",
+            "uri": "https://api.calendly.com/scheduled_events/0a2813bc-22e6-4929-83c1-a8b84d439bc6"
+        }
+    ],
+    "pagination": {
+        "count": 8,
+        "next_page": null,
+        "next_page_token": null,
+        "previous_page": null,
+        "previous_page_token": null
+    }
+}
